@@ -11,7 +11,7 @@ function Home() {
             <img alt="chloe rees" src={portrait}/>
             <h2>Hello, World! My name is Chloe.</h2>
             <div className="prompt">
-                <p>A software developer with a passion for learning and creating.</p>
+                <p>I'm a software developer with a passion for learning and creating.</p>
                 <a target="_blank" rel="noreferrer" href='https://www.linkedin.com/in/chloerees/'>
                     <AiOutlineLinkedin />
                 </a>
