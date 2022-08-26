@@ -3,6 +3,7 @@ import Home from "./pages/Home";
 import Projects from "./pages/Projects";
 import ProjectDisplay from "./pages/ProjectDisplay";
 import Experience from './pages/Experience';
+import Resume from "./pages/Resume"
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer"
 import "./styles/App.css"
@@ -24,6 +25,9 @@ function App() {
           </Route>
           <Route path="/experience">
             <Experience />
+          </Route>
+          <Route path="/resume">
+            <Resume />
           </Route>
         </Switch>
         <Footer />

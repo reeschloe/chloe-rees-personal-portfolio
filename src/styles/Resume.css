@@ -1,0 +1,36 @@
+.resume {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 30px;
+}
+
+.document {
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+.resume svg {
+    color: #3e497a;
+    margin-top: 10px;
+}
+
+.annotationLayer {
+    height: 0px;
+}
+
+@media only screen and (max-width: 612px) {
+    .react-pdf__Page__canvas {
+        margin: 0 auto;
+        width: 80% !important;
+        height: 100% !important;
+    }
+}
