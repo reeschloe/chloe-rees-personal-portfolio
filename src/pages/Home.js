@@ -13,13 +13,13 @@ function Home() {
             <div className="prompt">
                 <p>I'm a software developer with a passion for learning and creating.</p>
                 <a target="_blank" rel="noreferrer" href='https://www.linkedin.com/in/chloerees/'>
-                    <AiOutlineLinkedin />
+                    <AiOutlineLinkedin title="LinkedIn"/>
                 </a>
                 <a target="_blank" rel="noreferrer" href="mailto:reeschloe@yahoo.com">
-                    <AiOutlineMail />
+                    <AiOutlineMail title="Email"/>
                 </a>
                 <a target="_blank" rel="noreferrer" href="https://github.com/reeschloe/">
-                    <AiOutlineGithub />
+                    <AiOutlineGithub title="GitHub"/>
                 </a>
             </div>
         </div>

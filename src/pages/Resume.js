@@ -17,7 +17,7 @@ function Resume() {
             <Page pageNumber={1} className="page"/>
         </Document>
         <a href={pdf} download="chloe-rees-resume" target='_blank' rel="noreferrer">
-            <GrDocumentDownload />
+            <GrDocumentDownload title="Download PDF"/>
         </a>
     </div>
   );
