@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { Link, useLocation } from "react-router-dom";
 import "../styles/Navbar.css";
 import {HiOutlineMenu} from "react-icons/hi";
+import icon from "../images/cr.png"
 
 function Navbar() {
     const [expandNavbar, setExpandNavbar] = useState(false);
@@ -14,8 +15,11 @@ function Navbar() {
 
     return (
         <div className="navbar" id={expandNavbar ? "open" : "close"}>
-            <div className="toggleButton">
-                <button onClick={() => setExpandNavbar((prev) => !prev)}> <HiOutlineMenu /> </button>
+            <div className="icon-button">
+                <img src={icon} alt="cr icon" className="icon"/>
+                <div className="toggleButton">
+                    <button onClick={() => setExpandNavbar((prev) => !prev)}> <HiOutlineMenu /> </button>
+                </div>
             </div>
             <div className="links">
                 <Link to="/">Home</Link>
