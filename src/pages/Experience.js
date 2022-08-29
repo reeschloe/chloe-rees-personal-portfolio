@@ -14,10 +14,11 @@ function Experience() {
             </VerticalTimelineElement>
             <VerticalTimelineElement className="vertical-timeline-element--work" date="July 2018 - May 2022" iconStyle={{background: "#3e497a", color: "#fff"}} icon={<HiOutlineBriefcase />}>
                 <h3 className="vertical-timeline-element-title">Technical Solutions Engineer - Epic</h3>
-                <p>Led healthcare organizations to have a functional, efficient software system for clinicians.</p>
+                <p>Made recommendations and offered technical guidance based on client needs.</p>
                 <p>Translated customer needs into system-level solutions and communicated requests to Research and Development.</p>
-                <p>Mentored new hires and led employees through the role’s training process and overall responsibilities.</p>
+                <p>Wrote hundreds of queries run in the environments of the entire client base to find unsupported configurations.</p>
                 <p>Coordinated an effort involving 10+ teams across the organization for a voice assistant product used on mobile and desktop platforms. Formed new processes for product design, development, and support.</p>
+                <p>Mentored new hires and led employees through the role’s training process and overall responsibilities.</p>
             </VerticalTimelineElement>
             <VerticalTimelineElement className="vertical-timeline-element--education" date="May 2022 - August 2022" iconStyle={{background: "#71334a", color: "#fff"}} icon={<MdOutlineSchool />}>
                 <h3 className="vertical-timeline-element-title">Thinkful</h3>
