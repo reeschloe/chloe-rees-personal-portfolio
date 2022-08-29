@@ -13,13 +13,14 @@
   font-size: 35px;
 }
 .project img {
-  width: 700px;
-  height: 450px;
+  width: 75%;
+  max-width: 750px;
+  height: auto;
   border-radius: 10px;
 }
 
 .project p {
-  font-size: 40px;
+  font-size: 30px;
   color: #3e497a;
 }
 
