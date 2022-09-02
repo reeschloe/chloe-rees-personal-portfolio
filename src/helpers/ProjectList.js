@@ -3,6 +3,7 @@ import flashcard from "../images/flashcard-app.png";
 import reservation from "../images/reservation-app.png";
 import movies from "../images/movies-backend.png";
 import library from "../images/local-library.png";
+import friends from "../images/home-logged-in.png";
 
 export const ProjectList = [
     {
@@ -34,5 +35,11 @@ export const ProjectList = [
         image: library,
         skills: "Javascript ES6, Bootstrap, HTML, Node.js",
         link: "https://github.com/reeschloe/local-library"
+    },
+    {
+        name: "Friends App - Ruby on Rails",
+        image: friends,
+        skills: "Ruby, Ruby on Rails, Bootstrap",
+        link: "https://github.com/reeschloe/ruby-on-rails-friends"
     }
 ]
