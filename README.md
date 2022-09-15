@@ -1,5 +1,5 @@
 # Chloe Rees Portfolio
 
-Available here: https://chloe-rees-personal-portfolio.vercel.app/
+Available here: https://chloerees.com
 
 This portfolio includes my skills, experience, and favorite/recent projects.
