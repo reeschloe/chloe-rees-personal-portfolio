@@ -15,11 +15,11 @@ function Experience() {
             <VerticalTimelineElement className="vertical-timeline-element--work" date="July 2018 - May 2022" iconStyle={{background: "#3e497a", color: "#fff"}} icon={<HiOutlineBriefcase />}>
                 <h3 className="vertical-timeline-element-title">Technical Solutions Engineer - Epic</h3>
                 <ul>
-                    <li>Made recommendations and offered technical guidance based on client needs.</li>
-                    <li>Translated customer needs into system-level solutions and communicated requests to Research and Development.</li>
+                    <li>Worked closely with clients to translate technical requirements into proposed system-level solutions.</li>
+                    <li>Provided consistent feedback and enhancement ideas to the Research and Development division based on client experience.</li>
                     <li>Wrote hundreds of queries run in the environments of the entire client base to find unsupported configurations.</li>
-                    <li>Coordinated an effort involving 10+ teams across the organization for a voice assistant product used on mobile and desktop platforms. Formed new processes for product design, development, and support.</li>
-                    <li>Mentored new hires and led employees through the role’s training process and overall responsibilities.</li>
+                    <li>Drove innovation for a voice assistant product through design, development, and support for use on mobile and desktop.</li>
+                    <li>Mentored technical hires through process, policy, and best practices to support talent across the organization.</li>
                 </ul>
             </VerticalTimelineElement>
             <VerticalTimelineElement className="vertical-timeline-element--education" date="May 2022 - August 2022" iconStyle={{background: "#71334a", color: "#fff"}} icon={<MdOutlineSchool />}>
