@@ -30,6 +30,18 @@ function Experience() {
                     <li>Developed and deployed mobile-first applications while learning new languages and frameworks, spending several hours per week collaborating with and learning from senior web developers in a mentor-student relationship.</li>
                 </ul>
             </VerticalTimelineElement>
+            <VerticalTimelineElement className="vertical-timeline-element--education" date="November 2022 - Present" iconStyle={{background: "#3e497a", color: "#fff"}} icon={<HiOutlineBriefcase />}>
+                <h3 className="vertical-timeline-element-title">Thinkful</h3>
+                <p>Software Engineer - SketchDeck, LLC (24 Seven)</p>
+                <ul>
+                    <li>Extended single-page application to fulfill the needs of a new user base, creating flows and features for authentication, tracking of contractor work, and metric dashboards.</li>
+                    <li>Integrated with external systems (HubSpot and Bullhorn), giving users access to more data and preventing duplicative work.</li>
+                    <li>Lead development on a directory feature, providing users the ability to search for contractors by skill, experience, working hours, etc. to fill their project needs.</li>
+                    <li>Improved notifications from the application, giving users more control over which they receive to reduce noise and making important ones harder to miss.</li>
+                    <li>Provided technical support and investigated bugs reported by 40+ internal employees and thousands of clients.</li>
+                    <li>Ported over 100,000 lines of code from AngularJS and CoffeeScript to Angular and TypeScript, improving the code base’s stability and maintainability.</li>
+                </ul>
+            </VerticalTimelineElement>
         </VerticalTimeline>
     </div>
   )
