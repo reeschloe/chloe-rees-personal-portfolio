@@ -31,8 +31,7 @@ function Experience() {
                 </ul>
             </VerticalTimelineElement>
             <VerticalTimelineElement className="vertical-timeline-element--education" date="November 2022 - Present" iconStyle={{background: "#3e497a", color: "#fff"}} icon={<HiOutlineBriefcase />}>
-                <h3 className="vertical-timeline-element-title">Thinkful</h3>
-                <p>Software Engineer - SketchDeck, LLC (24 Seven)</p>
+                <h3 className="vertical-timeline-element-title">Software Engineer - SketchDeck, LLC (24 Seven)</h3>
                 <ul>
                     <li>Extended single-page application to fulfill the needs of a new user base, creating flows and features for authentication, tracking of contractor work, and metric dashboards.</li>
                     <li>Integrated with external systems (HubSpot and Bullhorn), giving users access to more data and preventing duplicative work.</li>
